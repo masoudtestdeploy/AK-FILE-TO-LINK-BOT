@@ -10,7 +10,8 @@ A reverse proxy is recommended to add TLS. When using a reverse proxy, keep
 should include the protocol, e.g. `https://example.com`.
 
 ### Deploy to HEROKU 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AK-BOTZ/AK-FILE-TO-LINK-BOT)
+Currently heroku is not taking this repo.
+I will update this repo later to make heroku support
 
 #### Environment variables
 * `TG_API_ID` (required) - Your Telegram API ID.
